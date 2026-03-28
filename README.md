@@ -16,79 +16,89 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hola, soy Carlos
+# 👋 Hi, I'm Carlos
 
-🎓 Estudiante de Tecnología en Desarrollo de Software
-💻 Enfocado en automatización, análisis de datos y desarrollo
-📈 En constante aprendizaje y construcción de proyectos reales
-
----
-
-## 🚀 Sobre mí
-
-Soy un desarrollador en formación con interés en crear soluciones que automaticen procesos y mejoren la toma de decisiones mediante datos.
-
-Actualmente estoy desarrollando proyectos prácticos que combinan programación, análisis y herramientas empresariales.
+🎓 Software Development Technology Student
+💻 Focused on automation, data analysis, and development
+🚀 Building real projects while learning
 
 ---
 
-## 🧠 Actualmente estoy aprendiendo
+## 🚀 About Me
 
-* Programación Orientada a Objetos (POO)
-* Python (nivel intermedio)
-* SQL para análisis de datos
-* HTML & CSS
-* Power BI
-* Automatización con VBA y Google Apps Script
+I'm a software development student passionate about creating solutions that automate processes and optimize data usage in businesses.
+
+I'm currently focused on combining programming with analytics tools to generate real value.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 I'm currently learning:
 
-* Python
-* C#
-* SQL
-* Excel (avanzado)
-* Power BI
-* Git & GitHub
+* 🧩 Object-Oriented Programming (OOP)
+* 🐍 Python (intermediate)
+* 🗄️ SQL for data analysis
+* 🌐 HTML & CSS
+* 📊 Power BI
+* ⚙️ Automation with VBA and Google Apps Script
 
 ---
 
-## 📊 Proyectos destacados
+## 🛠️ Technologies and tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Featured Projects
 
 ### 🔹 AutoReportes360
 
-Sistema de automatización de reportes en Excel y Google Sheets enfocado en pequeñas empresas.
+Report automation system in Excel and Google Sheets focused on small businesses.
 
-**Características:**
+**🔧 Technologies:** VBA | Google Apps Script
 
-* Automatización de reportes repetitivos
-* Uso de VBA y Google Apps Script
-* Enfoque en eficiencia operativa
+**🚀 Features:**
 
----
-
-### 🔹 Análisis de datos en Excel
-
-* Creación de dashboards
-* Análisis de KPIs
-* Optimización de reportes
+* Automation of repetitive reports
+* Reduction of operational times
+* Focus on business efficiency
 
 ---
 
-## 🎯 Objetivo profesional
+### 🔹 Data analysis in Excel
 
-Convertirme en desarrollador especializado en automatización y análisis de datos, creando soluciones digitales que aporten valor a empresas.
-
----
-
-## 📫 Contacto
-
-* LinkedIn: (agrega tu link aquí)
-* Email: (agrega tu correo aquí)
+* Interactive dashboards
+* KPI analysis
+* Data visualization
 
 ---
 
-## ⚡ Frase personal
+## 📈 GitHub Stats
 
-"Aprender, construir y mejorar cada día 🚀"
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Gonzalez-Anaya&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gonzalez-Anaya&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Goal
+
+Become a developer Specializing in automation and data analytics, creating digital solutions that generate impact for businesses.
+
+---
+
+## 📫 Contact
+
+* 💼 LinkedIn: (your link here)
+* 📧 Email: (your email here)
+
+---
+
+## ⚡ Quote
+
+"Learn, build, and improve every day 🚀"
