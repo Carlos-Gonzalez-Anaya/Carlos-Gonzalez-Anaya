@@ -83,7 +83,6 @@ Report automation system in Excel and Google Sheets focused on small businesses.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Gonzalez-Anaya&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gonzalez-Anaya&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Career Goal
